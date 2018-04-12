@@ -1,0 +1,33 @@
+/* Background pattern from Subtle Patterns */
+/*element style*/
+body{
+    padding-top: 65px; 
+    background-image: url("images/circles-dark.png");
+}
+
+table, th{
+    text-align: center;
+}
+
+thead{
+    background-color: #3E86C2;
+}
+
+tbody{
+    background-color:white;
+}
+
+th{
+    color:white;
+}
+
+/*Changing bootstrap panel background color*/
+/*class style*/
+.panel-primary{
+    background-color: #3E86C2 !important;
+}
+
+
+
+
+
